@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1085881736667",
+    "project_id": "go-glucose",
+    "storage_bucket": "go-glucose.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1085881736667:android:01f9fd0ed8ebc7b6231bfe",
+        "android_client_info": {
+          "package_name": "com.example.goglucose"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1085881736667-82eqtu2ogunfenvgog8bd75mq4ue2165.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9WU3zw7gvzRN-Erduj349Thkot_O6Q3Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1085881736667-82eqtu2ogunfenvgog8bd75mq4ue2165.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
