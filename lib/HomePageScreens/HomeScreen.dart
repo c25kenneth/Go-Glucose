@@ -1,11 +1,11 @@
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
-import 'package:goglucose/Content/AddRecord.dart';
-import 'package:goglucose/Content/AllGraphs.dart';
-import 'package:goglucose/Content/AllRecord.dart';
-import 'package:goglucose/Content/AllTime.dart';
-import 'package:goglucose/Content/ViewYearlyTrend.dart';
+import 'package:goglucose/HomePageScreens/AddRecord.dart';
+import 'package:goglucose/HomePageScreens/AllGraphs.dart';
+import 'package:goglucose/HomePageScreens/AllRecord.dart';
+import 'package:goglucose/HomePageScreens/AllTime.dart';
+import 'package:goglucose/HomePageScreens/ViewYearlyTrend.dart';
 import 'package:goglucose/GradientText.dart';
 import 'package:goglucose/backgroundConstants.dart';
 import 'package:ionicons/ionicons.dart';

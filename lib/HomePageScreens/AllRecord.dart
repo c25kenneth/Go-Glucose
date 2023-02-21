@@ -1,7 +1,7 @@
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
-import 'package:goglucose/Content/RecordDetail.dart';
+import 'package:goglucose/HomePageScreens/RecordDetail.dart';
 import 'package:goglucose/GradientText.dart';
 import 'package:goglucose/backgroundConstants.dart';
 import 'package:intl/intl.dart';

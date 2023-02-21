@@ -1,9 +1,9 @@
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
-import 'package:goglucose/Content/AllRecord.dart';
-import 'package:goglucose/Content/AllTime.dart';
-import 'package:goglucose/Content/ThisWeek.dart';
-import 'package:goglucose/Content/TodayChart.dart';
+import 'package:goglucose/HomePageScreens/AllRecord.dart';
+import 'package:goglucose/HomePageScreens/AllTime.dart';
+import 'package:goglucose/HomePageScreens/ThisWeek.dart';
+import 'package:goglucose/HomePageScreens/TodayChart.dart';
 import 'package:goglucose/backgroundConstants.dart';
 
 class AllGraphs extends StatefulWidget {

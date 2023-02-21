@@ -1,6 +1,6 @@
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
-import 'package:goglucose/Content/HomeScreen.dart';
+import 'package:goglucose/HomePageScreens/HomeScreen.dart';
 import 'package:goglucose/FirebaseFlutter.dart';
 import 'package:ionicons/ionicons.dart';
 import 'package:goglucose/helper_functions.dart';

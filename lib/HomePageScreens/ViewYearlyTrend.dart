@@ -1,11 +1,11 @@
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
-import 'package:goglucose/Content/AllTime.dart';
-import 'package:goglucose/Content/ThisWeek.dart';
+import 'package:goglucose/HomePageScreens/AllTime.dart';
+import 'package:goglucose/HomePageScreens/ThisWeek.dart';
 import 'dart:math';
 
-import 'package:goglucose/Content/TodayChart.dart';
+import 'package:goglucose/HomePageScreens/TodayChart.dart';
 
 class YearlyTrend extends StatefulWidget {
   final User user;
